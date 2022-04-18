@@ -1,0 +1,48 @@
+
+
+     [
+        {
+          "id" : 1,
+          "name" : "Ramesh",
+          "ownerName": "rahul",
+           "address" : "mumbai",
+           "areaCode" : "320",
+           "rent" : "$500"
+        },
+
+        {
+            "id" : 1,
+            "name" : "Ramesh",
+            "ownerName": "rahul",
+             "address" : "mumbai",
+             "areaCode" : "320",
+             "rent" : "$500"
+          },
+
+          {
+            "id" : 1,
+            "name" : "Ramesh",
+            "ownerName": "rahul",
+             "address" : "mumbai",
+             "areaCode" : "320",
+             "rent" : "$500"
+          },
+          {
+            "id" : 1,
+            "name" : "Ramesh",
+            "ownerName": "rahul",
+             "address" : "mumbai",
+             "areaCode" : "320",
+             "rent" : "$500"
+          },
+          {
+            "id" : 1,
+            "name" : "Ramesh",
+            "ownerName": "rahul",
+             "address" : "mumbai",
+             "areaCode" : "320",
+             "rent" : "$500"
+          }
+    ]
+
+

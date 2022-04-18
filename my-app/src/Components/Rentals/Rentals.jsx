@@ -1,6 +1,7 @@
 import React from "react";
 import "./Rentals.css";
 
+
 export const Rentals = () => {
   return (
     <div className="rentalContainer">
@@ -16,6 +17,7 @@ export const Rentals = () => {
         type="text"
         placeholder="Search Address"
       />
+      <button>Search</button>
       <table className="table" border="1">
         <thead>
           <tr>

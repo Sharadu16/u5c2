@@ -1,5 +1,11 @@
 import React from "react";
 
+function SubmitDetails () {
+  
+}
+function ChangeProperty() {
+     
+}
 
 export const AddHouse = () => {
   return (
@@ -31,7 +37,7 @@ export const AddHouse = () => {
         <label>image</label>
         <input value={""} type="text" className="image" required />
         <br />
-        <input className="submitBtn" type="submit" />
+        <input className="submitBtn" type="submit" onChange={ChangeProperty} />
       </form>
     </div>
   );

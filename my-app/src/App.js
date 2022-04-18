@@ -5,9 +5,10 @@ import { AddHouse } from "./Components/AddHouse/AddHouse";
 function App() {
   return (
     <div className="App">
-      <button className="toggleForm">
-         <a href="#">Add House</a>
+      <button className="toggleForm">  
+         Add House
       </button>
+      <AddHouse name="Sharad" />
        <Rentals/>
       <br />
     </div>
